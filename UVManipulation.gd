@@ -63,7 +63,7 @@ func _get_input_port_default_value(port):
 		1:
 			return 1.0;
 		2:
-			return 1.0;
+			return 0.0;
 		3:
 			return Vector2(0.0, 0.0);
 		4:
